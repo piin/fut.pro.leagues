@@ -41,9 +41,9 @@
 * Created date
 
 ### Roles
-* Admin
-* League owner
-* Referee
-* Player
+* Admin - Basically god.
+* League owner  - Can create, read, edit and delete seasons, matches, teams and players.
+* Referee - Can edit matches
+* Player - Can create, read, edit and delete a player.
 
 **File version 0.0.1**
